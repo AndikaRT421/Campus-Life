@@ -1,3 +1,6 @@
 [submodule "Praktikum-Dasprog-A-2022"]
 	path = Praktikum-Dasprog-A-2022
 	url = https://github.com/AndikaRT421/Praktikum-Dasprog-A-2022
+[submodule "strukdat_2023"]
+	path = strukdat_2023
+	url = https://github.com/AndikaRT421/strukdat_2023
