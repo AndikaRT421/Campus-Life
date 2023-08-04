@@ -2,7 +2,7 @@
 
 > Perjalanan studi S1 ITS Informatika
 
-![Gambar](https://www.its.ac.id/informatika/wp-content/uploads/sites/44/2018/03/IFl.jpg)
+![Gambar](https://awsimages.detik.net.id/community/media/visual/2023/03/15/teknik-informatika-its_169.jpeg?w=1200)
 
 ## Semester 1
 
