@@ -11,3 +11,7 @@
 ## Semester 2
 
 - Struktur Data (Strukdat)
+
+## Semester 3
+
+- Machine Learning
