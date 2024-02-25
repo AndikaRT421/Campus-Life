@@ -4,3 +4,6 @@
 [submodule "strukdat_2023"]
 	path = strukdat_2023
 	url = https://github.com/AndikaRT421/strukdat_2023
+[submodule "ML-class-2023"]
+	path = ML-class-2023
+	url = https://github.com/AndikaRT421/ML-class-2023
